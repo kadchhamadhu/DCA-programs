@@ -7,7 +7,7 @@ public class ThreadSafeSingleton
 	// Need the following object to synchronize a block 
 	private static Object syncObject;
 	
-	// Prevent direct access to the constructor
+	// Prevent direct access to the cons
 	private ThreadSafeSingleton() 
 	{
 		super();
