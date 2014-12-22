@@ -28,6 +28,6 @@ public class ThreadSafeSingleton
 				}			
 			}
 		}
-		return myInstance;
+		
 	}		
 }
